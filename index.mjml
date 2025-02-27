@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-title>Promotional Email</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, sans-serif" />
+    </mj-attributes>
+    
+  </mj-head>
+  <mj-body background-color="#f4f4f4">
+    <!-- Header Section -->
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-column>
+        <mj-image width="200px" src="https://i.postimg.cc/Sxcyq9Rm/logo.jpg" alt="Company Logo" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="30px" color="#333333" align="center">
+          Special Offer Just For You!
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" align="center">
+          Don't miss out on our biggest sale of the year
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Content -->
+    <mj-section background-color="#ffffff">
+      <mj-column>ß
+        <mj-image width="600px" src="https://i.postimg.cc/q70p776y/products.png" alt="Promotional Banner" />
+        <mj-text font-size="20px" color="#333333" align="center" padding-top="20px">
+          Get 30% Off Everything
+        </mj-text>
+        <mj-text font-size="16px" color="#666666">
+          Use code <strong>SPECIAL30</strong> at checkout to receive your discount. Valid until [Date].
+        </mj-text>
+        <mj-button background-color="#FFF200" border-radius="10px" color="#0045BE" href="#ß" >
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Featured Products -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="24px" color="#333333" align="center" padding-bottom="20px">
+          Featured Products
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image width="200px" src="https://i.postimg.cc/hGrcQqVw/phone.png" alt="Smartphone" />
+        <mj-text font-size="18px" padding-top="45px" color="#333333" align="center">
+          Latest Smartphone
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" align="center">
+          $699.99
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image width="200px" src="https://i.postimg.cc/W31jMfn4/headphones.png" alt="Wireless Headphones" />
+        <mj-text font-size="18px" color="#333333" align="center">
+          Wireless Headphones
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" align="center">
+          $199.99
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image width="200px"  src="https://i.postimg.cc/4d2GwbLQ/apple-watch.png" alt="Smartwatch" />
+        <mj-text font-size="18px" padding-top="15px" color="#333333" align="center">
+          Smartwatch
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" align="center" padding-top="25px">
+          $299.99
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#0045BE">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-size="14px">
+          Follow us on social media
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://facebook.com" />
+          <mj-social-element name="twitter" href="https://twitter.com" />
+          <mj-social-element name="instagram" href="https://instagram.com" />
+          <mj-social-element name="youtube" href="https://youtube.com" />
+        </mj-social>
+        <mj-text color="#ffffff" align="center" font-size="12px">
+          © 2023 Your Company. All rights reserved.
+        </mj-text>
+        <mj-text color="#ffffff" align="center" font-size="12px">
+          You received this email because you signed up for our newsletter.
+          <a href="#" style="color: #ffffff;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
