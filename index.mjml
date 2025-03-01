@@ -24,12 +24,11 @@
 
     <!-- Main Content -->
     <mj-section background-color="#ffffff">
-      <mj-column
-        >ß
+      <mj-column>
         <mj-image width="600px" src="./production_images/products.png" alt="Promotional Banner" />
         <mj-text font-size="20px" color="#333333" align="center" padding-top="20px"> Get 30% Off Everything </mj-text>
         <mj-text font-size="16px" color="#666666"> Use code <strong>SPECIAL30</strong> at checkout to receive your discount. Valid until [Date]. </mj-text>
-        <mj-button background-color="#FFF200" border-radius="10px" color="#0045BE" href="#ß"> Shop Now </mj-button>
+        <mj-button background-color="#FFF200" border-radius="10px" font-weight="bold" color="#0045BE" href="#"> Shop Now </mj-button>
       </mj-column>
     </mj-section>
 
@@ -51,7 +50,7 @@
         <mj-text font-size="16px" color="#666666" align="center"> $199.99 </mj-text>
       </mj-column>
       <mj-column width="33.33%">
-        <mj-image width="200px" src="./production_images/apple-watch.png" alt="Smartwatch" />
+        <mj-image width="200px" src="./production_images/apple_watch.png" alt="Smartwatch" />
         <mj-text font-size="18px" padding-top="15px" color="#333333" align="center"> Smartwatch </mj-text>
         <mj-text font-size="16px" color="#666666" align="center" padding-top="25px"> $299.99 </mj-text>
       </mj-column>
